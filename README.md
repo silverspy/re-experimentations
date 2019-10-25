@@ -37,10 +37,11 @@ L’idée est de créer un système qui viendra rendre les services suivants :
   - ….
 
 Pour réaliser ce système vous devrez:
-- Bien identifier le système et ses acteurs
-- Définir les principales missions et scénarios d’utilisation du système
-- Définir les principales fonctions du système, les intéractions et les échanges de flux entre elles
-- Définir les principaux mode de fonctionnement du système
+- éliciter les exigences (P1)
+- Bien identifier le système et ses acteurs (P2)
+- Définir les principales missions et scénarios d’utilisation du système (P2)
+- Définir les principales fonctions du système, les intéractions et les échanges de flux entre elles (P2)
+- Définir les principaux mode de fonctionnement du système (P2)
 
 Organisation du travail : 
 Le projet se déroulera en groupe de 2 étudiants
