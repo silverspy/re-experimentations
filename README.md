@@ -24,7 +24,7 @@ Modélisations sous formes de Diagramme de blocs du systéme.
 
 ### Diagramme de blocs internes (IBD)
 
-Nous avons modélisés le bloc "Indicateurs santée" avec un [diagramme IBD](#use-case-diagram-uc)
+Nous avons modélisés [le bloc du Diagramme de blocs](#diagramme-de-blocs-bdd) "Indicateurs santée" avec un diagramme IBD.
 .
 
 ![Diagramme de blocs internes](./Alfred/Alfred_IBD.PNG?raw=true "IBD")
@@ -35,40 +35,11 @@ Diagramme séquence du [cas d'utilisations](#use-case-diagram-uc) "Afficher un i
 
 ![Diagramme séquence](./Alfred/Alfred_Diagramme_Sequence_Indicateur_Santée.PNG?raw=true "DS")
 
-## Énoncé
+### Diagramme d'état
 
-## Modélisation
+Diagramme d'état de l'indicateur de santée de la maison.
 
-### Requirements Table
-
-Voici la requirements table que nous avons récupéré :
-
-![Alt text](/img.jpg?raw=true "Requirements table")
-
-### Use Case Diagram (UC)
-
-Nous avont modélisé le diagramme des [cas d'utilisations](#use-case-diagram-uc) du systéme. Pour l'instant nous avons détaillant en particulier le cas d'utilasion "Afficher un indicateur santée de la maison"
-
-![Alt text](/img.jpg?raw=true "UC")
-
-### Diagramme de blocs (BDD)
-
-Modélisations sous formes de Diagramme de blocs du systéme.
-
-![Alt text](/img.jpg?raw=true "BDD")
-
-
-### Diagramme de blocs internes (IBD)
-
-Nous avons modélisés le bloc "Indicateurs santée" avec un diagramme IBD.
-
-![Alt text](/img.jpg?raw=true "IBD")
-
-### Diagramme séquence
-
-Diagramme séquence du [cas d'utilisations](#use-case-diagram-uc) "Afficher un indicateur santée de la maison"
-
-![Alt text](/img.jpg?raw=true "DS")
+![Diagramme d'état](./Alfred/Alfred_State_Diagram.PNG?raw=true "Diagramme d'état")
 
 ## Énoncé
 
