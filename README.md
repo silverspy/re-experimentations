@@ -11,6 +11,42 @@ Voici la requirements table que nous avons récupéré :
 
 ### Use Case Diagram (UC)
 
+Nous avont modélisé le diagramme des cas d'utilisations du systéme. Pour l'instant nous avons détaillant en particulier le [cas d'utilisations](#requirements-table) "Afficher un indicateur santée de la maison"
+
+![Alt text](/img.jpg?raw=true "UC")
+
+### Diagramme de blocs (BDD)
+
+Modélisations sous formes de Diagramme de blocs du systéme.
+
+![Alt text](/img.jpg?raw=true "BDD")
+
+
+### Diagramme de blocs internes (IBD)
+
+Nous avons modélisés le bloc "Indicateurs santée" avec un [diagramme IBD](#use-case-diagram-uc)
+.
+
+![Alt text](/img.jpg?raw=true "IBD")
+
+### Diagramme séquence
+
+Diagramme séquence du [cas d'utilisations](#requirements-table) "Afficher un indicateur santée de la maison"
+
+![Alt text](/img.jpg?raw=true "DS")
+
+## Énoncé
+
+## Modélisation
+
+### Requirements Table
+
+Voici la requirements table que nous avons récupéré :
+
+![Alt text](/img.jpg?raw=true "Requirements table")
+
+### Use Case Diagram (UC)
+
 Nous avont modélisé le diagramme des cas d'utilisations du systéme. Pour l'instant nous avons détaillant en particulier le cas d'utilasion "Afficher un indicateur santée de la maison"
 
 ![Alt text](/img.jpg?raw=true "UC")
