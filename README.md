@@ -11,7 +11,7 @@ Voici la requirements table que nous avons récupéré :
 
 ### Use Case Diagram (UC)
 
-Nous avont modélisé le diagramme des cas d'utilisations du systéme. Pour l'instant nous avons détaillant en particulier le [cas d'utilisations](#requirements-table) "Afficher un indicateur santée de la maison"
+Nous avont modélisé le diagramme des cas d'utilisations du systéme. Pour l'instant nous avons détaillant en particulier le cas d'utilisations "Afficher un indicateur santée de la maison"
 
 ![Use Case Diagram](./Alfred/Alfred_UC.PNG?raw=true "UC")
 
@@ -31,7 +31,7 @@ Nous avons modélisés le bloc "Indicateurs santée" avec un [diagramme IBD](#us
 
 ### Diagramme séquence
 
-Diagramme séquence du [cas d'utilisations](#requirements-table) "Afficher un indicateur santée de la maison"
+Diagramme séquence du [cas d'utilisations](#use-case-diagram-uc) "Afficher un indicateur santée de la maison"
 
 ![Diagramme séquence](./Alfred/Alfred_Diagramme_Sequence_Indicateur_Santée.PNG?raw=true "DS")
 
@@ -47,7 +47,7 @@ Voici la requirements table que nous avons récupéré :
 
 ### Use Case Diagram (UC)
 
-Nous avont modélisé le diagramme des cas d'utilisations du systéme. Pour l'instant nous avons détaillant en particulier le cas d'utilasion "Afficher un indicateur santée de la maison"
+Nous avont modélisé le diagramme des [cas d'utilisations](#use-case-diagram-uc) du systéme. Pour l'instant nous avons détaillant en particulier le cas d'utilasion "Afficher un indicateur santée de la maison"
 
 ![Alt text](/img.jpg?raw=true "UC")
 
@@ -66,7 +66,7 @@ Nous avons modélisés le bloc "Indicateurs santée" avec un diagramme IBD.
 
 ### Diagramme séquence
 
-Diagramme séquence du cas d'utilisations "Afficher un indicateur santée de la maison"
+Diagramme séquence du [cas d'utilisations](#use-case-diagram-uc) "Afficher un indicateur santée de la maison"
 
 ![Alt text](/img.jpg?raw=true "DS")
 
