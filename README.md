@@ -7,19 +7,19 @@
 
 Voici la requirements table que nous avons récupéré :
 
-![Alt text](/img.jpg?raw=true "Requirements table")
+![Requirements table](./Alfred/Requierement_table.PNG?raw=true "Requirements table")
 
 ### Use Case Diagram (UC)
 
 Nous avont modélisé le diagramme des cas d'utilisations du systéme. Pour l'instant nous avons détaillant en particulier le [cas d'utilisations](#requirements-table) "Afficher un indicateur santée de la maison"
 
-![Alt text](/img.jpg?raw=true "UC")
+![Use Case Diagram](./Alfred/Alfred_UC.PNG?raw=true "UC")
 
 ### Diagramme de blocs (BDD)
 
 Modélisations sous formes de Diagramme de blocs du systéme.
 
-![Alt text](/img.jpg?raw=true "BDD")
+![Diagramme de blocs](./Alfred/Alfred_BDD.PNG?raw=true "BDD")
 
 
 ### Diagramme de blocs internes (IBD)
@@ -27,13 +27,13 @@ Modélisations sous formes de Diagramme de blocs du systéme.
 Nous avons modélisés le bloc "Indicateurs santée" avec un [diagramme IBD](#use-case-diagram-uc)
 .
 
-![Alt text](/img.jpg?raw=true "IBD")
+![Diagramme de blocs internes](./Alfred/Alfred_IBD.PNG?raw=true "IBD")
 
 ### Diagramme séquence
 
 Diagramme séquence du [cas d'utilisations](#requirements-table) "Afficher un indicateur santée de la maison"
 
-![Alt text](/img.jpg?raw=true "DS")
+![Diagramme séquence](./Alfred/Alfred_Diagramme_Sequence_Indicateur_Santée.PNG?raw=true "DS")
 
 ## Énoncé
 
